@@ -1,6 +1,6 @@
 <h1>Spark Sales Ecommerce Dashboard</h1>
 <h2>Project Overview</h2>
-<p>I designed an interactive Madhav Sales Ecommerce Dashboard using Power BI. This dashboard provides valuable insights and analytics for ecommerce sales, enabling data-driven decision-making to optimize retail operations.</p>
+<p>I designed an interactive Spark Sales Ecommerce Dashboard using Power BI. This dashboard provides valuable insights and analytics for ecommerce sales, enabling data-driven decision-making to optimize retail operations.</p>
 
 <h2>Key Features</h2>
 <h3>Data Transformation:</h3>
@@ -54,19 +54,6 @@ Maintained optimal inventory levels.
 
 <h3>Increased Profitability:</h3>
 Focused on high-margin products and profitable regions.
-
-<h3>Getting Started</h3>
-<h4>Prerequisites</h4>
-Power BI Desktop: Download and install Power BI Desktop.
-
-<h4>Installation</h4>
-Clone the repository: git clone https://github.com/MadScientist29/Madhav-Ecommerce-Sales-Dashboard.git
-
-Open Power BI Desktop.
-
-Load the Dataset: Import the provided Madhav Retail Sales dataset into Power BI.
-
-Open the Power BI Project File: Open the .pbix file from the cloned repository.
 
 <h3>Usage</h3>
 Explore Visualizations:
